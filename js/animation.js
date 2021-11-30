@@ -3,11 +3,11 @@
 /******************************************************* SETUP ************************************************************/
 
 const config = {
-    name: "Friend", // actual name of the recipient (Mandatory)
+    name: "Nafisu", // actual name of the recipient (Mandatory)
 
     nickname: "Buddy", // nickname(optional)
 
-    pic: "", //image url of recipients (Mandatory)
+    pic: "https://telegra.ph/file/fc3c81adb0a58014a09d7.png", //image url of recipients (Mandatory)
 
     showScrollMsg: true, // set to false if you do not want the scrolling message
 };
