@@ -5,7 +5,7 @@
 const config = {
     name: "Nafisu", // actual name of the recipient (Mandatory)
 
-    nickname: "Buddy", // nickname(optional)
+    nickname: "NAFA & SAFI", // nickname(optional)
 
     pic: "https://telegra.ph/file/fc3c81adb0a58014a09d7.png", //image url of recipients (Mandatory)
 
